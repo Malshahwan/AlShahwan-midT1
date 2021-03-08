@@ -36,14 +36,14 @@ public class MainActivity extends AppCompatActivity {
         go2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(MainActivity.this, com.example.alshahwan_midt1.MainActivity2.class));
+                startActivity(new Intent(MainActivity.this,MainActivity2.class));
             }
         });
         go3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                startActivity(new Intent(MainActivity.this, com.example.alshahwan_midt1.MainActivity3.class));}
+                startActivity(new Intent(MainActivity.this,MainActivity3.class));}
         });
 
         animalpic.setOnClickListener(new View.OnClickListener() {

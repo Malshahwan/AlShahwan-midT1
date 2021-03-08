@@ -48,19 +48,19 @@ public class MainActivity3 extends ListActivity {
                 break;
 
             case 1:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://alfaisal.edu")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://google.com")));
                 break;
 
             case 2:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://example.com")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://amazon.com")));
                 break;
 
             case 3:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://jd.com")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://apple.com")));
                 break;
 
             case 4:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://facebook.com")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://alfaisal.edu")));
                 break;
 
             case 5:
@@ -68,7 +68,7 @@ public class MainActivity3 extends ListActivity {
                 break;
 
             case 6:
-                startActivity(new Intent(MainActivity3.this, com.example.alshahwan_midt1.MainActivity2.class));
+                startActivity(new Intent(MainActivity3.this, MainActivity2.class));
                 break;
         }
 

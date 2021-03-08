@@ -7,6 +7,8 @@ import android.os.Bundle;
 
 public class BigImage extends AppCompatActivity {
 
+
+
     MediaPlayer mpanimalsound;
 
     @Override

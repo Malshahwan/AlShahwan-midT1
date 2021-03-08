@@ -48,7 +48,7 @@ public class MainActivity3 extends ListActivity {
                 break;
 
             case 1:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://google.com")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://alfaisal.edu")));
                 break;
 
             case 2:

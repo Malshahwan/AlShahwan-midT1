@@ -1,4 +1,4 @@
-package com.example.fahd_midtermmock;
+package com.example.alshahwan_midt1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
